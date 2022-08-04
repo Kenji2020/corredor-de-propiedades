@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react/realdeal/static/js/main.29ce6d0c.chunk.js",
-    "main.js.map": "/react/realdeal/static/js/main.29ce6d0c.chunk.js.map",
-    "runtime-main.js": "/react/realdeal/static/js/runtime-main.524a4886.js",
-    "runtime-main.js.map": "/react/realdeal/static/js/runtime-main.524a4886.js.map",
-    "static/js/2.3a7190d4.chunk.js": "/react/realdeal/static/js/2.3a7190d4.chunk.js",
-    "static/js/2.3a7190d4.chunk.js.map": "/react/realdeal/static/js/2.3a7190d4.chunk.js.map",
-    "index.html": "/react/realdeal/index.html",
-    "precache-manifest.2764494d7443befed9efb62b17337806.js": "/react/realdeal/precache-manifest.2764494d7443befed9efb62b17337806.js",
-    "service-worker.js": "/react/realdeal/service-worker.js",
-    "static/js/2.3a7190d4.chunk.js.LICENSE.txt": "/react/realdeal/static/js/2.3a7190d4.chunk.js.LICENSE.txt"
+    "main.js": "./static/js/main.1dee3d27.chunk.js",
+    "main.js.map": "./static/js/main.1dee3d27.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.cd2a09e7.js",
+    "runtime-main.js.map": "./static/js/runtime-main.cd2a09e7.js.map",
+    "static/js/2.3a7190d4.chunk.js": "./static/js/2.3a7190d4.chunk.js",
+    "static/js/2.3a7190d4.chunk.js.map": "./static/js/2.3a7190d4.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.e66d86b6e00ac64ca67f3292ddf1e356.js": "./precache-manifest.e66d86b6e00ac64ca67f3292ddf1e356.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.3a7190d4.chunk.js.LICENSE.txt": "./static/js/2.3a7190d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.524a4886.js",
+    "static/js/runtime-main.cd2a09e7.js",
     "static/js/2.3a7190d4.chunk.js",
-    "static/js/main.29ce6d0c.chunk.js"
+    "static/js/main.1dee3d27.chunk.js"
   ]
 }
