@@ -21,7 +21,7 @@ class Banner extends Component {
         let data = sectiondata.banner
 
         const inlineStyle = {
-            backgroundImage: 'url('+publicUrl+'/assets/img/banner/1.jpg)'
+            backgroundImage: 'url('+publicUrl+'assets/img/banner/1.jpg)'
         }
 
     return <div className="banner-area jarallax" style={inlineStyle}>

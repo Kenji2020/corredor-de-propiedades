@@ -62,7 +62,7 @@ class PropertyDetails extends Component {
                   <h6 className="mb-3">Contact Info</h6>
                   <div className="media">
                     <div className="media-left">
-                      <img src={ publicUrl+"/assets/img/icons/1.png"} alt={ imagealt } />
+                      <img src={ publicUrl+"assets/img/icons/1.png"} alt={ imagealt } />
                     </div>
                     <div className="media-body">
                       <p>Address</p>
@@ -113,7 +113,7 @@ class PropertyDetails extends Component {
                 <div className="col-md-3 col-sm-6">
                   <div className="single-property-info">
                     <h5>Area</h5>
-                    <p><img src={ publicUrl+"/assets/img/icons/7.png"}alt={ imagealt } />1,038 sq. ft.</p>
+                    <p><img src={ publicUrl+"assets/img/icons/7.png"}alt={ imagealt } />1,038 sq. ft.</p>
                   </div>
                 </div>
                 <div className="col-md-3 col-sm-6">
@@ -199,7 +199,7 @@ class PropertyDetails extends Component {
                 <div className="col-md-3 col-sm-6">
                   <div className="single-floor-list media">
                     <div className="media-left">
-                      <img src={ publicUrl+"/assets/img/icons/7.png"} alt={imagealt} />
+                      <img src={ publicUrl+"assets/img/icons/7.png"} alt={imagealt} />
                     </div>
                     <div className="media-body">
                       <h6>Dining Area</h6>
@@ -210,7 +210,7 @@ class PropertyDetails extends Component {
                 <div className="col-md-3 col-sm-6">
                   <div className="single-floor-list media">
                     <div className="media-left">
-                       <img src={ publicUrl+"/assets/img/icons/7.png"} alt={imagealt} />
+                       <img src={ publicUrl+"assets/img/icons/7.png"} alt={imagealt} />
                     </div>
                     <div className="media-body">
                       <h6>Dining Area</h6>

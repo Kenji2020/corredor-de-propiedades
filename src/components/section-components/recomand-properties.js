@@ -35,11 +35,11 @@ class RecomandProperties extends Component {
                             { item.features.map( ( features, i )=>
                               <li key={ i } ><i className={ features.icon } /> { features.title }</li>
                              ) } 
-                            <li><img src={publicUrl+"/assets/img/icons/7.png" } alt={ imagealt } /> 1898 sq.</li>
+                            <li><img src={publicUrl+"assets/img/icons/7.png" } alt={ imagealt } /> 1898 sq.</li>
                           </ul>
                           <ul className="contact-list">
                             <li><a className="phone" href="#"><i className="fa fa-phone" /></a></li>
-                            <li><a className="message" href="#"><img src={ publicUrl+"/assets/img/icons/8.png" } alt="img" /></a></li>
+                            <li><a className="message" href="#"><img src={ publicUrl+"assets/img/icons/8.png" } alt="img" /></a></li>
                             <li><a className="btn btn-yellow" href="property-details.html">Ver detalles</a></li>
                           </ul>
                         </div>

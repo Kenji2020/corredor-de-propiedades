@@ -51,11 +51,11 @@ class Featured extends Component {
                         { item.features.map( ( features, i )=>
                           <li key={ i } ><i className={ features.icon } /> { features.title }</li>
                          ) }  
-                          <li><img src={publicUrl+"/assets/img/icons/7.png"} alt="img" /> { item.area }</li>
+                          <li><img src={publicUrl+"assets/img/icons/7.png"} alt="img" /> { item.area }</li>
                         </ul>
                         <ul className="contact-list">
                           <li><a className="phone" href="#"><i className="fa fa-phone" /></a></li>
-                          <li><a className="message" href="#"><img src={ publicUrl+"/assets/img/icons/8.png" } alt="img" /></a></li>
+                          <li><a className="message" href="#"><img src={ publicUrl+"assets/img/icons/8.png" } alt="img" /></a></li>
                           <li className="readeal-top"><Link className="btn btn-yellow" to={item.url}>Ver detalles</Link></li>
                         </ul>
                       </div>

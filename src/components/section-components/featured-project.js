@@ -51,11 +51,11 @@ class FeaturedProject extends Component {
                           { item.featuresSecondItem.map( ( features, i )=>
                              <li key={ i } ><i className={ features.icon } /> { features.title }</li>
                            ) }  
-                          <li><img src={publicUrl+"/assets/img/icons/7.png"} alt="img" /> { item.areaSecondItem }</li>
+                          <li><img src={publicUrl+"assets/img/icons/7.png"} alt="img" /> { item.areaSecondItem }</li>
                         </ul>
                         <ul className="contact-list">
                           <li><a className="phone" href="#"><i className="fa fa-phone" /></a></li>
-                          <li><a className="message" href="#"><img src={publicUrl+"/assets/img/icons/8.png"} alt="img" /></a></li>
+                          <li><a className="message" href="#"><img src={publicUrl+"assets/img/icons/8.png"} alt="img" /></a></li>
                           <li><a className="btn btn-yellow" href={ item.urlSecondItem }>Ver detalles</a></li>
                         </ul>
                       </div>
@@ -77,11 +77,11 @@ class FeaturedProject extends Component {
                            { item.featuresThirdItem.map( ( features, i )=>
                              <li key={ i } ><i className={ features.icon } /> { features.title }</li>
                            ) }
-                          <li><img src={publicUrl+"/assets/img/icons/7.png"} alt="img" /> { item.areaThirdItem }</li>
+                          <li><img src={publicUrl+"assets/img/icons/7.png"} alt="img" /> { item.areaThirdItem }</li>
                         </ul>
                         <ul className="contact-list">
                           <li><a className="phone" href="#"><i className="fa fa-phone" /></a></li>
-                          <li><a className="message" href="#"><img src={publicUrl+"/assets/img/icons/8.png"} alt="img" /></a></li>
+                          <li><a className="message" href="#"><img src={publicUrl+"assets/img/icons/8.png"} alt="img" /></a></li>
                           <li className="readeal-top"><Link className="btn btn-yellow" to="/property-details">Ver detalles</Link></li>
                         </ul>
                       </div>

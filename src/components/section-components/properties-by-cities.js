@@ -14,7 +14,7 @@ class PropertiesByCities extends Component {
         console.log(data2)
 
         const inlineStyle = {
-            backgroundImage: 'url('+publicUrl+'/assets/img/bg/2.png)'
+            backgroundImage: 'url('+publicUrl+'assets/img/bg/2.png)'
         }
 
     return <div className="city-intro-area pd-bottom-70" style={ inlineStyle }>

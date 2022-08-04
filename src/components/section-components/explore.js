@@ -28,7 +28,7 @@ class Explore extends Component {
               <div className="details readeal-top">
                 <h4><Link to="/properties-by-city">{ item.city }</Link></h4>
                 <ul className="list">
-                  <li><img src={publicUrl +"/assets/img/icons/1.png"} alt="icona" />Ubicación: { item.lisgintnumber }</li>
+                  <li><img src={publicUrl +"assets/img/icons/1.png"} alt="icona" />Ubicación: { item.lisgintnumber }</li>
                   <li><i className="fa fa-usd" />Precio: ${ item.price }</li>
                 </ul>
               </div>

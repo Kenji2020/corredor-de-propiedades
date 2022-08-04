@@ -102,11 +102,11 @@ class SearchMap extends Component {
                                   { item.features.map( ( features, i )=>
                                     <li key={ i } ><i className={ features.icon } /> { features.title }</li>
                                    ) } 
-                                  <li><img src={publicUrl+"/assets/img/icons/7.png" } alt={ imagealt } /> { item.area }  </li>
+                                  <li><img src={publicUrl+"assets/img/icons/7.png" } alt={ imagealt } /> { item.area }  </li>
                                 </ul>
                                 <ul className="contact-list">
                                   <li><a className="phone" href="#"><i className="fa fa-phone" /></a></li>
-                                  <li><a className="message" href="#"><img src={ publicUrl+"/assets/img/icons/8.png" } alt="img" /></a></li>
+                                  <li><a className="message" href="#"><img src={ publicUrl+"assets/img/icons/8.png" } alt="img" /></a></li>
                                   <li><a className="btn btn-yellow" href="property-details.html">Ver detalles</a></li>
                                 </ul>
                             </div>
@@ -135,11 +135,11 @@ class SearchMap extends Component {
                               { item.features.map( ( features, i )=>
                                 <li key={ i } ><i className={ features.icon } /> { features.title }</li>
                                ) }
-                               <li><img src={publicUrl+"/assets/img/icons/7.png" } alt={ imagealt } /> { item.area }  </li>
+                               <li><img src={publicUrl+"assets/img/icons/7.png" } alt={ imagealt } /> { item.area }  </li>
                             </ul>
                             <ul className="contact-list">
                               <li><a className="phone" href="#"><i className="fa fa-phone" /></a></li>
-                              <li><a className="message" href="#"><img src={ publicUrl+"/assets/img/icons/8.png" } alt="img" /></a></li>
+                              <li><a className="message" href="#"><img src={ publicUrl+"assets/img/icons/8.png" } alt="img" /></a></li>
                               <li><a className="btn btn-yellow" href="property-details.html">Ver detalles</a></li>
                             </ul>
                           </div>
