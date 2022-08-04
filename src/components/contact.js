@@ -14,7 +14,13 @@ const Contact = () => {
           <div className="row">
             <div className="col-lg-8">
               <div className="contact-page-map">
-			  <iframe width="600" height="450"  loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJfROT7wrOYpYRIMVjayzqmZw&key=AIzaSyADtusKWxXt0b22qAFb9kZOI3X12JZvKZ8"></iframe>
+                <iframe
+                  width="600"
+                  height="450"
+                  loading="lazy"
+                  allowFullScreen
+                  src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJL68lBEHFYpYRMQkPQDzVdYQ&key=AIzaSyBWUTcFpak3lHubIksNZHKaeSsSEk_1Hyk"
+                ></iframe>
               </div>
             </div>
             <div className="col-lg-4">
