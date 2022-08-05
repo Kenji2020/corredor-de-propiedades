@@ -19,7 +19,7 @@ class Navbar extends Component {
                       </button>
                     </div>
                     <div className="logo readeal-top">
-                      
+                    {/*<Link to="/"><img src={publicUrl+"assets/img/NQD.png"} style={{height:"150px", width:"165px"}} alt="logo" /></Link>*/}
                     </div>
                   
                     <div className="collapse navbar-collapse" id="realdeal_main_menu">

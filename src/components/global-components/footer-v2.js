@@ -24,18 +24,7 @@ class Footer_v1 extends Component {
         return (
              <footer className="footer-area style-two">
               <div className="container">
-              <div className="subscribe-area">
-                <div className="row justify-content-center">
-                  <div className="col-xl-7 col-lg-9 text-center">
-                    <h2>Mantente al día</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fringilla dui nibh, idhendrerit Suspendisse faucibus nulla accumsan. </p>
-                    <div className="rld-single-input">
-                      <input type="text" placeholder="Tu correo electrónico" />
-                      <button className="btn">Enviar</button>
-                    </div>
-                  </div>
-                </div>
-              </div>
+                                 
                 <div className="footer-top">
                   <div className="row">
                     <div className="col-sm-4">
