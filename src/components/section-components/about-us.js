@@ -27,7 +27,6 @@ class AboutUs extends Component {
                 <h5 className="sub-title">{ data.subtitle }</h5>
                 <h2 className="title">{ data.title }</h2>
                 <p>{ data.content }</p>
-                <a className="btn btn-yellow" href={ data.url } >{ data.btn_text }</a>
               </div>
             </div>
           </div>

@@ -72,14 +72,14 @@
           "price": "80000"
         },
         {
-          "city": "Puerto Varas",
+          "city": "Calafquén",
           "image": "assets/img/explore/3.png",
           "url": "#",
           "lisgintnumber": "85",
           "price": "30000"
         },
         {
-          "city": "Osorno",
+          "city": "Santiago",
           "image": "assets/img/explore/4.png",
           "url": "#",
           "lisgintnumber": "115",
@@ -92,134 +92,107 @@
     "title": "Propiedades destacadas",
     "firstitem":
       {
-        "title": "Jason Landville Apartment",
-        "image": "assets/img/feature/1.png",
-        "price":"$350/mes",
-        "content":"4 Camas, 3 Beth, Flats. Area 1448-2537 sqft",
+        "title": "Terreno en Maihue",
+        "image": "assets/img/Terreno en maihue/1.jpg",
+        "image2": "assets/img/Terreno en maihue/2.jpg",
+        "price":"$145.000.000",
+        "content":"5.000m2",
         "url": "/property-details",
         "area":"1898 m2."
       },
     "items":[
         {
-          "title": "Vegas Landville Apartment",
-          "image": "assets/img/feature/2.png",
-          "icon":"assets/img/icons/l1.png",
-         "url": "/property-details",
-          "olderprice": "$790/mes",
-          "newerprice": "$350/mes",
-          "area":"1898 m2.",
-          "authorname":"Vilma Jarvi By Redbrox",
-          "features":[
-            {
-              "icon":"fa fa-bed",
-              "title":"05 Camas"
-            },
-            {
-              "icon":"fa fa-bath",
-              "title":"02 Baños"
-            }
-          ]
+          "title":"Terreno en Maihue",
+          "image": "assets/img/Terreno en maihue/1.jpg",
+          "icon":"assets/img/icons/m1.png",
+          "url":"#",
+          "newerprice": "$145.000.000",
+          "area":"Se vende hermosa parcela de 5000 m2 en condominio con playa y vista a 5 volcanes en lago Calafquén",
+          "authorname":"Nicolás Quintana"
         },
         {
-          "title": "Jason Landville Apartment",
-          "image": "assets/img/feature/3.png",
-          "icon":"assets/img/icons/l2.png",
-         "url": "/property-details",
-          "olderprice": "$790/mes",
-          "newerprice": "$350/mes",
-          "area":"1898 m2.",
-          "authorname":"Vilma Jarvi By Redbrox",
-          "features":[
-            {
-              "icon":"fa fa-bed",
-              "title":"05 Camas"
-            },
-            {
-              "icon":"fa fa-bath",
-              "title":"02 Baños"
-            }
-          ]
+          "title":"Terreno en Galletue",
+          "image": "assets/img/Terreno en galletue/2.jpg",
+          "icon":"assets/img/icons/m1.png",
+          "url":"#",
+          "newerprice": "$120.000.000",
+          "area":"Se vende hermosa parcela de 5000 m2 en condominio con playa y vista a 5 volcanes en lago Calafquén",
+          "authorname":"Nicolás Quintana"
         },
         {
-          "title": "United eandqille Apartment",
-          "image": "assets/img/feature/4.png",
-          "icon":"assets/img/icons/l3.png",
-         "url": "/property-details",
-          "olderprice": "$790/mes",
-          "newerprice": "$350/mes",
-          "area":"1898 m2.",
-          "authorname":"Vilma Jarvi By Redbrox",
-          "features":[
-            {
-              "icon":"fa fa-bed",
-              "title":"05 Camas"
-            },
-            {
-              "icon":"fa fa-bath",
-              "title":"02 Baños"
-            }
-          ]
+          "title":"Terreno en Calafquén",
+          "image": "assets/img/Terreno lago calafquen/1.jpg",
+          "icon":"assets/img/icons/m1.png",
+          "url":"#",
+          "newerprice": "$150.000.000",
+          "area":"Se vende hermosa parcela de 5000 m2 en condominio con playa y vista a 5 volcanes en lago Calafquén",
+          "authorname":"Nicolás Quintana"
         },
         {
-          "title": "Jason Landville Apartment",
-          "image": "assets/img/feature/5.png",
-          "icon":"assets/img/icons/l4.png",
-         "url": "/property-details",
-          "olderprice": "$790/mes",
-          "newerprice": "$350/mes",
-          "area":"1898 m2.",
-          "authorname":"Vilma Jarvi By Redbrox",
-          "features":[
-            {
-              "icon":"fa fa-bed",
-              "title":"05 Camas"
-            },
-            {
-              "icon":"fa fa-bath",
-              "title":"02 Baños"
-            }
-          ]
+          "title":"Parcelas lago Maihue, Emplazadas en comdominio",
+          "image": "assets/img/Parcelas lago maihue/2.jpg",
+          "icon":"assets/img/icons/m2.png",
+          "url":"#",
+          "newerprice": "$63.000.000",
+          "area":"Lago Maihue; 2 Parcelas de 5000 mts cada una con orilla de rio; se venden juntas. Emplazadas dentro de un condomino consolidado con luz y agua aconectar. Lugar tranquilo y rodeado de bosques nativos.",
+          "authorname":"Nicolás Quintana"
+
         },
         {
-          "title": "United Landville Apartment",
-          "image": "assets/img/feature/6.png",
-          "icon":"assets/img/icons/l5.png",
-         "url": "/property-details",
-          "olderprice": "$790/mes",
-          "newerprice": "$350/mes",
-          "area":"1898 m2.",
-          "authorname":"Vilma Jarvi By Redbrox",
-          "features":[
-            {
-              "icon":"fa fa-bed",
-              "title":"05 Camas"
-            },
-            {
-              "icon":"fa fa-bath",
-              "title":"02 Baños"
-            }
-          ]
+          "title":"Parcelas lago Calafquén",
+          "image": "assets/img/Parcelas lago calafquen/2.jpg",
+          "icon":"assets/img/icons/calafquen.png",
+          "url":"#",
+          "newerprice": "$800.000.000",
+          "area":"Lago Calafquén; Parcelas 4 hectáreas con 300 mts de playa; vista a 5 volcanes",
+          "authorname":"Nicolás Quintana"
         },
-        {
-          "title": "wison Landville Apartment",
-          "image": "assets/img/feature/6.png",
-          "icon":"assets/img/icons/l6.png",
-         "url": "/property-details",
-          "olderprice": "$790/mes",
-          "newerprice": "$350/mes",
-          "area":"1898 m2.",
-          "authorname":"Vilma Jarvi By Redbrox",
-          "features":[
-            {
-              "icon":"fa fa-bed",
-              "title":"05 Camas"
-            },
-            {
-              "icon":"fa fa-bath",
-              "title":"02 Baños"
-            }
-          ]
-        }
+      {
+        "title":"Parcelas lago Mahihue, entorno privilegiado",
+        "image": "assets/img/Parcela lago maihue 2/3.jpg",
+        "icon":"assets/img/icons/mahihue.png",
+        "url":"#",
+        "newerprice": "$160.000.000",
+        "area":"Lago Mahihue; 4.5 hectáreas con derecho a playa; Parcela ubicada en un entorno privilegiado con vistas únicas del lago",
+        "authorname":"Nicolás Quintana"
+
+      },
+      {
+        "title":"Lago Galletue; Campo de 45 hectáreas",
+        "image": "assets/img/Terreno en galletue/2.jpg",
+        "icon":"assets/img/icons/campo-de-45.png",
+        "url":"#",
+        "newerprice": "$160.000.000",
+        "area":"Campo de 45 hectáreas. Impresionantes vistas, rodeado de bosque nativos y araucarias.",
+        "authorname":"Nicolás Quintana"
+      },
+      {
+        "title":"Parcela en Villarrica 1800 UF",
+        "image": "assets/img/Parcela en villarrica/1.jpg",
+        "icon":"assets/img/icons/parcela.png",
+        "url":"#",
+        "newerprice": "$1.800 UF",
+        "area":"5000 m2.",
+        "authorname":"Nicolás Quintana"
+      },
+      {
+        "title":"Oficina frente a costanera center",
+        "image": "assets/img/Oficina costanera center/1.jpg",
+        "icon":"assets/img/icons/patricia_linhaux.png",
+        "url":"#",
+        "newerprice": "$600.000 mensuales",
+        "area":"Arriendo oficina amoblada frente al costanera center. Acondicionada para consulta médica; a pasos de estación metro Los Leones. 2 privados, 2 baños, recepción. Lindas vistas. Excelente ubicación.",
+        "authorname":"Nicolás Quintana"
+      },
+      {
+        "title":"Arriendo Amplio Depto. Comercial a pasos del Metro Baquedano",
+        "image": "assets/img/Departamento amplio metro baquedano/1.jpg",
+        "icon":"assets/img/icons/patricia_linhaux.png",
+        "url":"#",
+        "newerprice": "$850.000 mensuales",
+        "area":"Arriendo; Amplio Departamento comercial, 110 mts. ideal centro médico. Excelente ubicación Vicuña Mackenna 4, a pasos del metro Baquedano.",
+        "authorname":"Nicolás Quintana"
+      }
 
       ]
   },
@@ -459,58 +432,34 @@
     "title": "Propiedades por ciudad",
     "items":[
         {
-          "class": "col-lg-2 col-sm-6",
+          "class": "col-lg-5 col-sm-6",
           "sectionclass":"sc-one",
-          "image":"assets/img/city/1.png",
-          "city":"Pucón",
+          "image":"assets/img/Parcelas lago maihue/82762d89-8b61-47f8-a91e-f76fe9bbeb09.jpg",
+          "city":"Maihue",
           "url":"/properties-by-city",
           "content":"12 Properties"
         },
         {
-          "class": "col-lg-2 col-sm-6",
+          "class": "col-lg-5 col-sm-6",
           "sectionclass":"sc-two",
           "image":"assets/img/city/2.png",
-          "city":"Villa Rica",
+          "city":"Calafquén",
           "url":"/properties-by-city",
           "content":"12 Properties"
         },
         {
           "class": "col-lg-5 col-sm-6",
           "sectionclass":"",
-          "image":"assets/img/city/3.png",
-          "city":"Puerto Varas",
+          "image":"assets/img/Parcela en villarrica/2.jpg",
+          "city":"Villarrica",
           "url":"/properties-by-city",
           "content":"12 Properties"
         },
         {
-          "class": "col-lg-3 col-sm-6",
+          "class": "col-lg-5 col-sm-6",
           "sectionclass":"sc-three",
-          "image":"assets/img/city/4.png",
-          "city":"Osorno",
-          "url":"/properties-by-city",
-          "content":"12 Properties"
-        },  
-        {
-          "class": "col-lg-4 col-sm-6",
-          "sectionclass":"",
-          "image":"assets/img/city/2.png",
-          "city":"Puerto Williams",
-          "url":"/properties-by-city",
-          "content":"12 Properties"
-        },
-         {
-          "class": "col-lg-4 col-sm-6",
-          "sectionclass":"",
-          "image":"assets/img/city/6.png",
-          "city":"Concón",
-          "url":"/properties-by-city",
-          "content":"12 Properties"
-        },
-        {
-          "class": "col-lg-3 col-sm-6",
-          "sectionclass":"",
-          "image":"assets/img/city/7.png",
-          "city":"Pucón",
+          "image":"assets/img/Oficina costanera center/84e5be6c-6880-40fd-a706-334851fb0aa5.jpg",
+          "city":"Santiago",
           "url":"/properties-by-city",
           "content":"12 Properties"
         }
@@ -520,14 +469,14 @@
       {
         "title":"¿Buscando un nuevo hogar?",
         "url":"/property",
-        "content":"__ ofertas todos los días. __ ofertas en la página, __ confiada por una comidad de cientos de usuarios.",
+        "content":"Ofertas nuevas constantemente. multiples ofertas en la página, empresa confiada por una comunidad de cientos de usuarios.",
         "icon":"assets/img/icons/9.png",
         "class":"single-intro-media-active"
       },
       {
-        "title":"¿Quieres vender tu casa?",
+        "title":"¿Quieres vender tu casa, terreno, oficina, etc...?",
         "url":"/contact",
-        "content":"__ ofertas todos los días. __ ofertas en la página, __ confiada por una comidad de cientos de usuarios.",
+        "content":"Ponte en contacto con nosotros a través de nuestra página web, respuesta rápida y personalizada dependiendo de cada caso.",
         "icon":"assets/img/icons/10.png"
       }
     ]
@@ -542,14 +491,14 @@
       {
         "title":"¿Buscando un nuevo hogar?",
         "url":"/property",
-        "content":"__ ofertas todos los días. __ ofertas en la página, __ confiada por una comidad de cientos de usuarios.",
+        "content":"Ofertas nuevas constantemente. multiples ofertas en la página, empresa confiada por una comunidad de cientos de usuarios.",
         "icon":"assets/img/icons/9.png",
         "class":"single-intro-media-active"
       },
       {
         "title":"¿Quieres vender tu casa?",
         "url":"/contact",
-        "content":"__ ofertas todos los días. __ ofertas en la página, __ confiada por una comidad de cientos de usuarios.",
+        "content":"Ponte en contacto con nosotros a través de nuestra página web, respuesta rápida y personalizada dependiendo de cada caso.",
         "icon":"assets/img/icons/10.png"
       }
     ]
@@ -1344,7 +1293,6 @@
     "aboutus":{
       "subtitle":"Sobre nosotros",
       "title":"Somos un equipo dinámico y una gran agencia.",
-      "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae venenatis mi",
       "btn_text":"Más servicios",
       "url":"#",
       "image":"assets/img/others/7.png"
@@ -1450,25 +1398,17 @@
   },
   "faq":{
       "title":"Preguntas frecuentes",
-      "image":"assets/img/others/6.png",
-      "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis enim vel leo laoreet, quis sodales purus blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+      "image":"assets/img/Parcela lago maihue 2/4.jpg",
+      "content":"En esta sección encontrarás preguntas frecuentes.",
       "items":[
           {
-            "title":"Lorem ipsum dolor sit amet, consectetur",
+            "title":"¿Cómo comprar un terreno o arrendar una oficina?",
             "class":"show",
-            "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis enim vel leo laoreet, quis sodales purus blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+            "content":"Simplemente ponte en contacto con nosotros y nosotros te asesoraremos en el resto del proceso."
           },
           {
-            "title":"Consectetur adipiscing elit. Sed lobortis",
-            "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis enim vel leo laoreet, quis sodales purus blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-          },
-          {
-            "title":"Lorem ipsum dolor sit amet, consectetur",
-            "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis enim vel leo laoreet, quis sodales purus blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-          },
-          {
-            "title":"Consectetur adipiscing elit. Sed lobortis",
-            "content":" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis enim vel leo laoreet, quis sodales purus blandit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+            "title":"¿Cómo ponerse en contacto con nosotros?",
+            "content":"Hay 3 métodos, primero debes ir a la sección de contacto, luego una vez ahí puedes llamar al número en pantalla, escribir al correo o rellenar el formulario, cualquiera de las 3 formas es válida."
           }
       ]
   },

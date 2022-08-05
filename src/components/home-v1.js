@@ -11,18 +11,18 @@ import FeaturedPorject from './section-components/featured-project';
 import WhyChooseUs from './section-components/why-choose-us';
 import OurPartner from './section-components/our-partner';
 import Footer from './global-components/footer';
-
+import {Ventas} from './section-components/Ventas';
 const Home_V1 = () => {
     return <div>
         <Navbar />
         <Banner />
-        <Explore />
+        <Ventas />
         <FeaturedProperties />
-        <PropertiesByCities />
-        <RecentProperties />
-        <FeaturedPorject />
+        {/*<PropertiesByCities />
+        {/*<RecentProperties />
+        {/*<FeaturedPorject />*/}
         <WhyChooseUs />
-        <Footer />
+        {/*<Footer />*/}
     </div>
 }
 

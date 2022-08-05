@@ -16,7 +16,7 @@ const About = () => {
         <AboutUs />
         <ServiceTwo />
         <Team />
-        <Client />
+        {/*<Client />*/}
         <Footer />
     </div>
 }
