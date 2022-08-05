@@ -8,7 +8,7 @@ import Footer from './global-components/footer';
 const AvailableProperty = () => {
     return <div>
         <Navbar />
-        <PageHeader headertitle="Properties by Cities"/>
+        <PageHeader headertitle="Propiedades por ciudad"/>
         <PropertySection />
         <TopAuthor />
         <Footer />

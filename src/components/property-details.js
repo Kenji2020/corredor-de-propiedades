@@ -8,7 +8,7 @@ import Footer from './global-components/footer';
 const PropertyDetails = () => {
     return <div>
         <Navbar />
-        <PageHeader headertitle="Property Details" />
+        <PageHeader headertitle="Detalles de la propiedad" />
         <PropertyDetailsSection />
         <RecomandProperties />
         <Footer />
