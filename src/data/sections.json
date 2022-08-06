@@ -95,9 +95,9 @@
         "title": "Terreno en Maihue",
         "image": "assets/img/Terreno en maihue/1.jpg",
         "image2": "assets/img/Terreno en maihue/2.jpg",
-        "price":"$145.000.000",
+        "price":"VENDIDA",
         "content":"5.000m2",
-        "url": "/property-details",
+        "url": "/detalles_maihue_terreno",
         "area":"1898 m2."
       },
     "items":[
@@ -105,8 +105,9 @@
           "title":"Terreno en Maihue",
           "image": "assets/img/Terreno en maihue/1.jpg",
           "icon":"assets/img/icons/m1.png",
-          "url":"#",
-          "newerprice": "$145.000.000",
+          "url":"/detalles_maihue_terreno",
+          "newerprice": "Vendida",
+          "olderprice":"$145.000.000",
           "area":"Se vende hermosa parcela de 5000 m2 en condominio con playa y vista a 5 volcanes en lago Calafquén",
           "authorname":"Nicolás Quintana"
         },
@@ -114,7 +115,7 @@
           "title":"Terreno en Galletue",
           "image": "assets/img/Terreno en galletue/2.jpg",
           "icon":"assets/img/icons/m1.png",
-          "url":"#",
+          "url":"/detalles_galletue_terreno",
           "newerprice": "$120.000.000",
           "area":"Se vende hermosa parcela de 5000 m2 en condominio con playa y vista a 5 volcanes en lago Calafquén",
           "authorname":"Nicolás Quintana"
@@ -123,7 +124,7 @@
           "title":"Terreno en Calafquén",
           "image": "assets/img/Terreno lago calafquen/1.jpg",
           "icon":"assets/img/icons/m1.png",
-          "url":"#",
+          "url":"/detalles_calafquen_terreno",
           "newerprice": "$150.000.000",
           "area":"Se vende hermosa parcela de 5000 m2 en condominio con playa y vista a 5 volcanes en lago Calafquén",
           "authorname":"Nicolás Quintana"
@@ -132,7 +133,7 @@
           "title":"Parcelas lago Maihue, Emplazadas en comdominio",
           "image": "assets/img/Parcelas lago maihue/2.jpg",
           "icon":"assets/img/icons/m2.png",
-          "url":"#",
+          "url":"/parcelas_lago_maihue",
           "newerprice": "$63.000.000",
           "area":"Lago Maihue; 2 Parcelas de 5000 mts cada una con orilla de rio; se venden juntas. Emplazadas dentro de un condomino consolidado con luz y agua aconectar. Lugar tranquilo y rodeado de bosques nativos.",
           "authorname":"Nicolás Quintana"
@@ -142,7 +143,7 @@
           "title":"Parcelas lago Calafquén",
           "image": "assets/img/Parcelas lago calafquen/2.jpg",
           "icon":"assets/img/icons/calafquen.png",
-          "url":"#",
+          "url":"/parcelas_lago_calafquen",
           "newerprice": "$800.000.000",
           "area":"Lago Calafquén; Parcelas 4 hectáreas con 300 mts de playa; vista a 5 volcanes",
           "authorname":"Nicolás Quintana"
@@ -151,7 +152,7 @@
         "title":"Parcelas lago Mahihue, entorno privilegiado",
         "image": "assets/img/Parcela lago maihue 2/3.jpg",
         "icon":"assets/img/icons/mahihue.png",
-        "url":"#",
+        "url":"/parcelas_parcelasPrivilegiadas",
         "newerprice": "$160.000.000",
         "area":"Lago Mahihue; 4.5 hectáreas con derecho a playa; Parcela ubicada en un entorno privilegiado con vistas únicas del lago",
         "authorname":"Nicolás Quintana"
@@ -161,8 +162,8 @@
         "title":"Lago Galletue; Campo de 45 hectáreas",
         "image": "assets/img/Terreno en galletue/2.jpg",
         "icon":"assets/img/icons/campo-de-45.png",
-        "url":"#",
-        "newerprice": "$160.000.000",
+        "url":"/detalles_lago_galletue",
+        "newerprice": "$70.000.000",
         "area":"Campo de 45 hectáreas. Impresionantes vistas, rodeado de bosque nativos y araucarias.",
         "authorname":"Nicolás Quintana"
       },
@@ -170,7 +171,7 @@
         "title":"Parcela en Villarrica 1800 UF",
         "image": "assets/img/Parcela en villarrica/1.jpg",
         "icon":"assets/img/icons/parcela.png",
-        "url":"#",
+        "url":"/parcela_villarrica",
         "newerprice": "$1.800 UF",
         "area":"5000 m2.",
         "authorname":"Nicolás Quintana"
@@ -179,7 +180,7 @@
         "title":"Oficina frente a costanera center",
         "image": "assets/img/Oficina costanera center/1.jpg",
         "icon":"assets/img/icons/patricia_linhaux.png",
-        "url":"#",
+        "url":"/oficina_costanera",
         "newerprice": "$600.000 mensuales",
         "area":"Arriendo oficina amoblada frente al costanera center. Acondicionada para consulta médica; a pasos de estación metro Los Leones. 2 privados, 2 baños, recepción. Lindas vistas. Excelente ubicación.",
         "authorname":"Nicolás Quintana"
@@ -188,7 +189,7 @@
         "title":"Arriendo Amplio Depto. Comercial a pasos del Metro Baquedano",
         "image": "assets/img/Departamento amplio metro baquedano/1.jpg",
         "icon":"assets/img/icons/patricia_linhaux.png",
-        "url":"#",
+        "url":"/depto_amplio",
         "newerprice": "$850.000 mensuales",
         "area":"Arriendo; Amplio Departamento comercial, 110 mts. ideal centro médico. Excelente ubicación Vicuña Mackenna 4, a pasos del metro Baquedano.",
         "authorname":"Nicolás Quintana"
@@ -1413,7 +1414,7 @@
       ]
   },
    "team":{
-      "title":"Somos un equipo dinámico y una gran agencia.",
+      "title":"",
       "titlev2":"Nuestro equipo:",
       "items":[
           {
@@ -2057,6 +2058,6 @@
 
         }
       ]
-  }            
-
-}
+  }
+  
+  }        

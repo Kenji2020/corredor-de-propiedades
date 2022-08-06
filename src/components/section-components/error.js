@@ -19,7 +19,7 @@ class Error extends Component {
            <div className="error-page text-center">
             <div className="container">
               <div className="error-page-wrap d-inline-block">
-                <Link to="/">Go Back</Link>
+                <Link to="/">Te perdiste :c</Link>
                 <h2>404</h2>
               </div>
             </div>

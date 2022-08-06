@@ -27,6 +27,16 @@ import SearchGrid from './components/search-grid';
 import SearchList from './components/search-list';
 import AddNew from './components/add-property';
 import Inicio from "./components/inicio-de-sesion/Inicio"
+import detalles_maihue_terreno from './components/detalles-maihue-terreno';
+import detalles_galletue_terreno from './components/detalles-galletue-terreno'
+import detalles_calafquen_terreno from './components/detalles-calafquen-terreno'
+import parcelas_lago_maihue from './components/parcelas-lago-maihue'
+import parcelas_lago_calafquen from './components/detalles-calafquen-parcelas'
+import detalles_parcelasPrivilegiadas from './components/detalles-parcelasPrivilegiadas'
+import detalles_lago_galletue from './components/detalles-lago-galletue'
+import parcela_villarrica from './components/parcela_villarrica'
+import oficina_costanera from './components/oficina_costanera'
+import depto_amplio from './components/depto_amplio'
 
 class Root extends Component {
     render() {
@@ -57,7 +67,16 @@ class Root extends Component {
                     {/* <Route path="/search-grid" component={SearchGrid} /> */}
                     {/*<Route path="/search-list" component={SearchList} /> */}
                     <Route path="/add-property" component={AddNew} />
-                    <Route path="/admin" component={Inicio} />
+                    <Route path="/detalles_maihue_terreno" component={detalles_maihue_terreno} />
+                    <Route path="/detalles_galletue_terreno" component={detalles_galletue_terreno} />
+                    <Route path="/detalles_calafquen_terreno" component={detalles_calafquen_terreno} />
+                    <Route path="/parcelas_lago_maihue" component={parcelas_lago_maihue} />
+                    <Route path="/parcelas_lago_calafquen" component={parcelas_lago_calafquen} />
+                    <Route path="/parcelas_parcelasPrivilegiadas" component={detalles_parcelasPrivilegiadas} />
+                    <Route path="/detalles_lago_galletue" component={detalles_lago_galletue} />
+                    <Route path="/parcela_villarrica" component={parcela_villarrica} />
+                    <Route path="/oficina_costanera" component={oficina_costanera} />
+                    <Route path="/depto_amplio" component={depto_amplio} />
                     <Route path="/*" component={Error} />
                 </Switch>
                 </div>
