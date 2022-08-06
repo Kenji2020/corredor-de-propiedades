@@ -22,7 +22,7 @@ const Home_V1 = () => {
         {/*<RecentProperties />
         {/*<FeaturedPorject />*/}
         <WhyChooseUs />
-        {/*<Footer />*/}
+        <Footer />
     </div>
 }
 

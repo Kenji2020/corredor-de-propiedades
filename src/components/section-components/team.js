@@ -17,9 +17,9 @@ class Team extends Component {
             <div className="section-title text-center">
               <h2 className="title">{ data.title }</h2>
             </div>
-            <div className="row">
+            <div className="col">
             { data.items.map( ( item, i )=>
-                <div key={i } className="col-lg-3 col-sm-6">
+                <div key={i} className="col-lg-3 col-sm-6" style={{ marginRight:'40%'}} >
                   <div className="single-team">
                     <div className="thumb">
                       <img src={publicUrl+item.image} alt="team" />
@@ -27,13 +27,6 @@ class Team extends Component {
                     <div className="team-details">
                       <h4>{ item.name }</h4>
                       <span>{ item.designation }</span>
-                      <ul>
-                        { item.social.map( ( social, i )=>
-                            <li key={ i }><a href={ social.url }><i className={ social.icon } /></a></li>
-
-                         ) }
-
-                      </ul>
                     </div>
                   </div>
                 </div>

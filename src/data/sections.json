@@ -967,20 +967,20 @@
             "number":"01",
             "title":"Nuesta misión",
             "url":"#",
-            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae venenatis mi"
+            "content":"Lograr que descubras la maravilla que nos otorga el sur de Chile"
           },
           {
             "number":"02",
             "title":"Nuestra forma de lograrlo",
             "url":"#",
-            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae venenatis mi",
+            "content":"Dándote los mejores precios en propiedades en el sur de Chile",
             "class":"offset-xl-1"
           },
           {
             "number":"03",
             "title":"Nuestra filosofía",
             "url":"#",
-            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae venenatis mi",
+            "content":"Nuestro pensamiento nace de la forma de vida única que entrega el sur de Chile a sus habitantes.",
              "class":"offset-xl-1"
           }
       ]
@@ -1295,7 +1295,7 @@
       "title":"Somos un equipo dinámico y una gran agencia.",
       "btn_text":"Más servicios",
       "url":"#",
-      "image":"assets/img/others/7.png"
+      "image":"assets/img/Parcela lago maihue 2/5.jpg"
   },
   "aboutusv2":{
       "title":"About <br />Luxurius Home",
@@ -1367,8 +1367,8 @@
     "servicetwo":{
       "subtitle":"Nuestros servicios",
       "title":"Lo que hacemos",
-      "content1":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed diam nonumy eirmada",
-      "content2":"with our high level marketing approach, negotiation skills,",
+      "content1":"Ponemos a tu disposición las mejores ofertas de nuevos estilos de vida",
+
       "items":[
           {
             "title":"Our Marketing Analaysis",
@@ -1419,78 +1419,8 @@
           {
             "name":"Nicolás Quintana",
             "designation":"Fundador y CEO",
-            "image":"assets/img/team/1.png",
-            "social":[
-              {
-                "icon":"fa fa-facebook",
-                "url":"#"
-              },
-              {
-                "icon":"fa fa-twitter",
-                "url":"#"
-              },
-              {
-                "icon":"fa fa-instagram",
-                "url":"#"
-              }
-            ]
-          },
-           {
-            "name": "____",
-            "designation":"_____",
-            "image":"assets/img/team/2.png",
-            "social":[
-              {
-                "icon":"fa fa-facebook",
-                "url":"#"
-              },
-              {
-                "icon":"fa fa-twitter",
-                "url":"#"
-              },
-              {
-                "icon":"fa fa-instagram",
-                "url":"#"
-              }
-            ]
-          },
-          {
-            "name":"____",
-            "designation":"______ ",
-            "image":"assets/img/team/3.png",
-            "social":[
-              {
-                "icon":"fa fa-facebook",
-                "url":"#"
-              },
-              {
-                "icon":"fa fa-twitter",
-                "url":"#"
-              },
-              {
-                "icon":"fa fa-instagram",
-                "url":"#"
-              }
-            ]
-          },
-          {
-            "name":"______",
-            "designation":"______",
-            "image":"assets/img/team/4.png",
-            "social":[
-              {
-                "icon":"fa fa-facebook",
-                "url":"#"
-              },
-              {
-                "icon":"fa fa-twitter",
-                "url":"#"
-              },
-              {
-                "icon":"fa fa-instagram",
-                "url":"#"
-              }
-            ]
+            "image":"assets/img/team/1.png"
+        
           }
       ]
   },
