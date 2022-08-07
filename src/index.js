@@ -38,10 +38,15 @@ import parcela_villarrica from './components/parcela_villarrica'
 import oficina_costanera from './components/oficina_costanera'
 import depto_amplio from './components/depto_amplio'
 
+
 class Root extends Component {
-    render() {
+
+        render() {
         return(
             <Router>
+       
+
+            
                 <HashRouter basename="/">
                 <div>
                 <Switch>
@@ -64,8 +69,8 @@ class Root extends Component {
                     {/* <Route path="/news-details" component={NewsDetails} /> */}
                     <Route path="/contact" component={Contact} />
                     {/* <Route path="/search-map" component={SearchMap} /> */}
-                    {/* <Route path="/search-grid" component={SearchGrid} /> */}
-                    {/*<Route path="/search-list" component={SearchList} /> */}
+                  {/*   <Route path="/search-grid" component={SearchGrid} /> */}
+                   {/*  <Route path="/search-list" component={SearchList} /> */}
                     <Route path="/add-property" component={AddNew} />
                     <Route path="/detalles_maihue_terreno" component={detalles_maihue_terreno} />
                     <Route path="/detalles_galletue_terreno" component={detalles_galletue_terreno} />
@@ -81,6 +86,7 @@ class Root extends Component {
                 </Switch>
                 </div>
                 </HashRouter>
+        
             </Router>
         )
     }
