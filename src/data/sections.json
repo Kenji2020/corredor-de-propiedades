@@ -112,7 +112,7 @@
           "area":"Se vende hermosa parcela de 5000 m2 en condominio con playa y vista a 5 volcanes en lago Calafquén",
           "authorname":"Nicolás Quintana",
           "disponible":"No",
-          "precio":"$145.000.000"
+          "precio":"145000000"
         },
         {
           "title":"Terreno en Galletue",
@@ -124,7 +124,7 @@
           "area":"Se vende hermosa parcela de 5000 m2 en condominio con playa y vista a 5 volcanes en lago Calafquén",
           "authorname":"Nicolás Quintana",
           "disponible":"Sí",
-          "precio":"$120.000.000"
+          "precio":"120000000"
 
         },
         {
@@ -138,7 +138,7 @@
           "area":"Se vende hermosa parcela de 5000 m2 en condominio con playa y vista a 5 volcanes en lago Calafquén",
           "authorname":"Nicolás Quintana",
           "disponible":"No",
-          "precio":"$150.000.000"
+          "precio":"150000000"
         },
         {
           "title":"Parcelas lago Maihue, Emplazadas en condominio",
@@ -151,7 +151,7 @@
           "area":"Lago Maihue; 2 Parcelas de 5000 mts cada una con orilla de rio; se venden juntas. Emplazadas dentro de un condomino consolidado con luz y agua aconectar. Lugar tranquilo y rodeado de bosques nativos.",
           "authorname":"Nicolás Quintana",
           "disponible":"No",
-          "precio":"$63.000.000"
+          "precio":"63000000"
 
         },
         {
@@ -165,7 +165,7 @@
           "area":"Lago Calafquén; Parcelas 4 hectáreas con 300 mts de playa; vista a 5 volcanes",
           "authorname":"Nicolás Quintana",
           "disponible":"No",
-          "precio":"$800.000.000"
+          "precio":"800000000"
         },
       {
         "title":"Parcelas lago Maihue, entorno privilegiado",
@@ -177,7 +177,7 @@
         "area":"Lago Mahihue; 7.000 m2 con orilla de playa. Última parcela del lote.",
         "authorname":"Nicolás Quintana",
         "disponible":"Sí",
-        "precio":"$460.000.000"
+        "precio":"460000000"
 
       },
       {
@@ -190,7 +190,7 @@
         "area":"Campo de 45 hectáreas. Impresionantes vistas, rodeado de bosque nativos y araucarias, cercano al lago con orilla de río, vista privilegiada.",
         "authorname":"Nicolás Quintana",
         "disponible":"Sí",
-        "precio":"$70.000.000"
+        "precio":"70000000"
       },
       {
         "title":"Parcela en Villarrica 1800 UF",
@@ -203,7 +203,7 @@
         "area":"5000 m2.",
         "authorname":"Nicolás Quintana",
         "disponible":"No",
-        "precio":"$1.800 UF"
+        "precio":"1800"
       },
       {
         "title":"Oficina frente a costanera center",
@@ -216,7 +216,7 @@
         "area":"Arriendo oficina amoblada frente al costanera center. Acondicionada para consulta médica; a pasos de estación metro Los Leones. 2 privados, 2 baños, recepción. Lindas vistas. Excelente ubicación.",
         "authorname":"Nicolás Quintana",
         "disponible":"No",
-        "precio":"$600.000 mensuales"
+        "precio":"600000"
       },
       {
         "title":"Arriendo Amplio Depto. Comercial a pasos del Metro Baquedano",
@@ -229,7 +229,7 @@
         "area":"Arriendo; Amplio Departamento comercial, 110 mts. ideal centro médico. Excelente ubicación Vicuña Mackenna 4, a pasos del metro Baquedano.",
         "authorname":"Nicolás Quintana",
         "disponible":"No",
-        "precio":"$850.000 mensuales"
+        "precio":"850000"
       },
       {
         "title":"Terreno aledaño a Villarrica",
@@ -240,7 +240,7 @@
         "area":"25 hectáreas; a 20 km de villarrica, luz y agua a conectar, con orilla de rio. Vistas, entorno nativo, disponibilidad de mostrar en avión",
         "authorname":"Nicolás Quintana",
         "disponible":"Sí",
-        "precio":"$375.000.000"
+        "precio":"375000000"
       }
 
       ]

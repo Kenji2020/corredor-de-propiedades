@@ -15,10 +15,8 @@ export const Ventas =(props)=> {
     let filteredPrecio = data.filter(item => item.newerprice.includes((newPrice)))
     console.log(filtered)
     console.log(filteredPrecio)
-
     setCurrentFruit(filtered)
-    console.log(currentFruit)
-      setCurrentFruitIndex(filteredPrecio)
+    setCurrentFruitIndex(filteredPrecio)
   }
   
     return (
@@ -46,7 +44,7 @@ export const Ventas =(props)=> {
                                   <option value={'Galletue'}>Galletue</option>
                                   <option value={'Calafquén'}>Calafquén</option>
                                   <option value={'Villarrica'}>Villarrica</option>                                 
-                                
+
                                 </select>
                               </div>
                             </div>                      
@@ -55,15 +53,15 @@ export const Ventas =(props)=> {
                                 <select className="select single-select" onChange={(event) => handleChange(event.target.value)}
                                 value={currentFruit}>
                                   <option value={1}>Precio</option>
-                                  <option value={2}></option>
-                                  <option value={3}></option>
-                                  <option value={3}>$</option>
+                                  <option value={2}>$0 - $60.000.000</option>
+                                  <option value={3}>$60.000.000 - $100.000.000</option>
+                                  <option value={3}>$100.000.000 - $500.000.000</option>
                                   <option value={3}>$500.000.000 - $800.000.000</option>                                 
                                 </select>
                               </div>
                             </div>
                             <div className="col-xl-2 col-lg-4 col-md-4 readeal-top">
-                              <button className="btn btn-yellow" onClick={(event)=>handleChange(currentFruit,currentFruitIndex)}>Buscar</button>                              
+                              <button className="btn btn-yellow" to="/">Buscar</button>                              
                             </div>
                           </div>
                         </div>
