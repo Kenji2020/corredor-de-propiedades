@@ -117,7 +117,7 @@
         {
           "title":"Terreno en Galletue",
           "ciudad":"Galletue",
-          "image": "assets/img/Terreno en galletue/2.jpg",
+          "image": "assets/img/Terreno en galletue/1.jpg",
           "icon":"assets/img/icons/m1.png",
           "url":"/detalles_galletue_terreno",
           "newerprice": "$120.000.000",
@@ -143,7 +143,7 @@
         {
           "title":"Parcelas lago Maihue, Emplazadas en condominio",
           "ciudad":"Maihue",
-          "image": "assets/img/Parcelas lago maihue/2.jpg",
+          "image": "assets/img/Parcelas lago maihue/1.jpg",
           "icon":"assets/img/icons/m2.png",
           "url":"/parcelas_lago_maihue",
           "newerprice": "Vendido",

@@ -36,14 +36,14 @@ export const PropertyDetails = () =>{
                       <div class="carousel-item active">
                         <img
                           class="d-block w-100"
-                          src={publicUrl + "assets/img/Terreno en maihue/1.jpg"}
+                          src={publicUrl + "assets/img/Terreno en maihue/2.jpg"}
                           alt="First slide"
                         />
                       </div>
                       <div class="carousel-item">
                         <img
                           class="d-block w-100"
-                          src={publicUrl + "assets/img/Terreno en maihue/2.jpg"}
+                          src={publicUrl + "assets/img/Terreno en maihue/1.jpg"}
                           alt="Second slide"
                         />
                       </div>

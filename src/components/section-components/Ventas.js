@@ -3,7 +3,7 @@ import React,{ useState, useEffect, useContext} from 'react'
 import { Link, Redirect } from 'react-router-dom';
 import sectiondata from '../../data/sections.json';
 import CasasContext from "../../CasasContext"
-
+import '../../App.css'
 
 export const Ventas =(props)=> {
   const {data, setData, dataToShow, setDataToShow} = useContext(CasasContext)
@@ -58,10 +58,7 @@ const filtrar = () => {
   }
 }
   
-  let publicUrl = process.env.PUBLIC_URL+'/'
   let imagealt = 'image'
-
-  
 console.log("data",dataToShow)
 
     return (
@@ -69,18 +66,19 @@ console.log("data",dataToShow)
                   <div className="banner-search-wrap" >
                     <ul className="nav nav-tabs rld-banner-tab d-flex justify-content-center">
                       <li className="nav-item ">
-                        <a className="nav-link active " data-toggle="tab" href="#tabs_1">En venta</a>
+                        <a className="nav-link active " data-toggle="tab" href="#tabs_1">Filtrar</a>
                       </li>
-                      <li className="nav-item">
+                      {/*<li className="nav-item">
                         <a className="nav-link" data-toggle="tab" href="#tabs_2">En renta</a>
-                      </li>
+                      </li>*/}
                     </ul>
                     <div className="tab-content">
                       <div className="tab-pane fade show active" id="tabs_1">
                         <div className="rld-main-search">
-                          <div className="row">                       
+                          <div className="row justify-content-center">                       
                             <div className="col-xl-2 col-lg-6 col-md-6">
                               <div className="rld-single-select">
+                                
                                 <select className="select nice-select" defaultValue={''} onChange={handleInput('ciudad')}>
                                   <option value={''}  >Ciudades</option>
                                   <option value={'Maihue'}  >Maihue</option>
