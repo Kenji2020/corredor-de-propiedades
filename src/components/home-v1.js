@@ -16,7 +16,7 @@ const Home_V1 = () => {
     return <div>
         <Navbar />
         <Banner />
-        {/*<Ventas />*/}
+        <Ventas />
         <FeaturedProperties />
         {/*<PropertiesByCities />
         {/*<RecentProperties />

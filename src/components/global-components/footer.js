@@ -31,7 +31,13 @@ class Footer_v1 extends Component {
                     </div>
                     <div className="col-sm-8">
                       <div className="footer-social text-sm-right">
-                        <ul className="social-icon">   
+                        <span>Síguenos</span>
+                        <ul className="social-icon">
+                         { footerdata.socialicon.map( ( item, i )=>
+                            <li key={i}>
+                              <a href={ item.url } target="_blank"><i className={ item.icon } /></a>
+                            </li>
+                          ) }
                         </ul>
                       </div>  
                     </div>

@@ -5,18 +5,17 @@
   "socialicon": [
       {
         "icon": "fa fa-facebook",
-        "url": "https://www.facebook.com/codingeek.net/"
+        "url": ""
       },
       {
-        "icon": "fa fa-twitter",
-        "url": "https://twitter.com/codingeeknet"
+        "icon": "fa fa-instagram",
+        "url": ""
       },
       {
         "icon": "fa fa-linkedin",
-        "url": "https://www.linkedin.com/company/codingeek/about/"
+        "url": ""
       }
     ],
-  "copyrighttext": "  © Copyright Nexus Property Made with  by <a href='https://codingeek.net/' target='_blank'><i class=\"fa fa-heart\"></i><span>Codingeek.</span></a>",
   "popularserces": {
     "title": "Popular Searches",
     "links": [
