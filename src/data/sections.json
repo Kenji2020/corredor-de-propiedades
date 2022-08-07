@@ -125,16 +125,18 @@
           "image": "assets/img/Terreno lago calafquen/1.jpg",
           "icon":"assets/img/icons/m1.png",
           "url":"/detalles_calafquen_terreno",
-          "newerprice": "$150.000.000",
+          "newerprice": "Vendida",
+          "olderprice":"$150.000.000",
           "area":"Se vende hermosa parcela de 5000 m2 en condominio con playa y vista a 5 volcanes en lago Calafquén",
           "authorname":"Nicolás Quintana"
         },
         {
-          "title":"Parcelas lago Maihue, Emplazadas en comdominio",
+          "title":"Parcelas lago Maihue, Emplazadas en condominio",
           "image": "assets/img/Parcelas lago maihue/2.jpg",
           "icon":"assets/img/icons/m2.png",
           "url":"/parcelas_lago_maihue",
-          "newerprice": "$63.000.000",
+          "newerprice": "Vendido",
+          "olderprice":"$63.000.000",
           "area":"Lago Maihue; 2 Parcelas de 5000 mts cada una con orilla de rio; se venden juntas. Emplazadas dentro de un condomino consolidado con luz y agua aconectar. Lugar tranquilo y rodeado de bosques nativos.",
           "authorname":"Nicolás Quintana"
 
@@ -144,17 +146,18 @@
           "image": "assets/img/Parcelas lago calafquen/2.jpg",
           "icon":"assets/img/icons/calafquen.png",
           "url":"/parcelas_lago_calafquen",
-          "newerprice": "$800.000.000",
+          "newerprice": "Vendida",
+          "olderprice":"$800.000.000",
           "area":"Lago Calafquén; Parcelas 4 hectáreas con 300 mts de playa; vista a 5 volcanes",
           "authorname":"Nicolás Quintana"
         },
       {
-        "title":"Parcelas lago Mahihue, entorno privilegiado",
+        "title":"Parcelas lago Maihue, entorno privilegiado",
         "image": "assets/img/Parcela lago maihue 2/3.jpg",
         "icon":"assets/img/icons/mahihue.png",
         "url":"/parcelas_parcelasPrivilegiadas",
-        "newerprice": "$160.000.000",
-        "area":"Lago Mahihue; 4.5 hectáreas con derecho a playa; Parcela ubicada en un entorno privilegiado con vistas únicas del lago",
+        "newerprice": "$460.000.000",
+        "area":"Lago Mahihue; 7.000 m2 con orilla de playa. Última parcela del lote.",
         "authorname":"Nicolás Quintana"
 
       },
@@ -164,7 +167,7 @@
         "icon":"assets/img/icons/campo-de-45.png",
         "url":"/detalles_lago_galletue",
         "newerprice": "$70.000.000",
-        "area":"Campo de 45 hectáreas. Impresionantes vistas, rodeado de bosque nativos y araucarias.",
+        "area":"Campo de 45 hectáreas. Impresionantes vistas, rodeado de bosque nativos y araucarias, cercano al lago con orilla de río, vista privilegiada.",
         "authorname":"Nicolás Quintana"
       },
       {
@@ -172,7 +175,8 @@
         "image": "assets/img/Parcela en villarrica/1.jpg",
         "icon":"assets/img/icons/parcela.png",
         "url":"/parcela_villarrica",
-        "newerprice": "$1.800 UF",
+        "newerprice": "Vendida",
+        "olderprice":"$1.800 UF",
         "area":"5000 m2.",
         "authorname":"Nicolás Quintana"
       },
@@ -181,7 +185,8 @@
         "image": "assets/img/Oficina costanera center/1.jpg",
         "icon":"assets/img/icons/patricia_linhaux.png",
         "url":"/oficina_costanera",
-        "newerprice": "$600.000 mensuales",
+        "newerprice": "Arrendada",
+        "olderprice":"$600.000 mensuales",
         "area":"Arriendo oficina amoblada frente al costanera center. Acondicionada para consulta médica; a pasos de estación metro Los Leones. 2 privados, 2 baños, recepción. Lindas vistas. Excelente ubicación.",
         "authorname":"Nicolás Quintana"
       },
@@ -190,8 +195,17 @@
         "image": "assets/img/Departamento amplio metro baquedano/1.jpg",
         "icon":"assets/img/icons/patricia_linhaux.png",
         "url":"/depto_amplio",
-        "newerprice": "$850.000 mensuales",
+        "newerprice": "Arrendada",
+        "olderprice":"$850.000 mensuales",
         "area":"Arriendo; Amplio Departamento comercial, 110 mts. ideal centro médico. Excelente ubicación Vicuña Mackenna 4, a pasos del metro Baquedano.",
+        "authorname":"Nicolás Quintana"
+      },
+      {
+        "title":"Terreno aledaño a Villarrica",
+        "image": "assets/img/Terreno cerca villarrica/1.jpg",
+        "url":"/terreno_cerca_villarrica",
+        "newerprice": "$375.000.000",
+        "area":"25 hectáreas; a 20 km de villarrica, luz y agua a conectar, con orilla de rio. Vistas, entorno nativo, disponibilidad de mostrar en avión",
         "authorname":"Nicolás Quintana"
       }
 
