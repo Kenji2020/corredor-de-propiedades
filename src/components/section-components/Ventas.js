@@ -17,8 +17,7 @@ export const Ventas =(props)=> {
   ]   */
 
 const [filter, setFilter] = useState({
-  title : "",
-  ciudad : "",
+  ciudad : '',
   precio : "999999999"
 })
 
@@ -33,12 +32,28 @@ const handleInput = (field) => (e) =>  {
 }
 
 const filtrar = () => {
+  console.log( filter.ciudad)
   const filtrado = data.filter(function (el) {
-    return el.ciudad === filter.ciudad && Number(el.precio) <= Number(filter.precio)
-  })
+    if(filter.ciudad === '' && filter.precio === '999999999'){
+      return dataToShow
+    }else if(filter.ciudad !== '' && filter.precio !== '999999999'){
+      const data1 = el.ciudad === filter.ciudad && Number(el.precio) <= Number(filter.precio)
+      if(data1.length === 0) return dataToShow
+      else return data1
+    }else if(filter.ciudad !== '' && filter.precio === '999999999'){
+      const data1 = el.ciudad === filter.ciudad
+      if(data1.length === 0) return dataToShow
+      else return data1
+    }else if(filter.ciudad === '' && filter.precio !== '999999999'){
+      const data1 = Number(el.precio) <= Number(filter.precio)
+      if(data1.length === 0) return dataToShow
+      else return data1
+    }
+      })
   setDataToShow(filtrado)
   if(filtrado.length === 0){
     console.log("fallo")
+    console.log(filter.ciudad)
     setDataToShow(data)
   }
 }
@@ -51,10 +66,10 @@ console.log("data",dataToShow)
 
     return (
         <div className="">
-                  <div className="banner-search-wrap " >
+                  <div className="banner-search-wrap" >
                     <ul className="nav nav-tabs rld-banner-tab d-flex justify-content-center">
                       <li className="nav-item ">
-                        <a className="nav-link active" data-toggle="tab" href="#tabs_1">En venta</a>
+                        <a className="nav-link active " data-toggle="tab" href="#tabs_1">En venta</a>
                       </li>
                       <li className="nav-item">
                         <a className="nav-link" data-toggle="tab" href="#tabs_2">En renta</a>
@@ -78,7 +93,7 @@ console.log("data",dataToShow)
                             <div className="col-xl-2 col-lg-4 col-md-6">
                               <div className="rld-single-select">
                                 <select className="select nice-select" defaultValue={''} onChange={handleInput('precio')}>
-                                  <option value={''}>desde </option>
+                                  <option value={'999999999'}>desde </option>
                                   <option value={'50000000'}>50 millonacos</option>
                                   <option value={'100000000'}>100 millonacos</option>
                                   <option value={'200000000'}>200 millonacos</option>
