@@ -37,6 +37,8 @@ import detalles_lago_galletue from './components/detalles-lago-galletue'
 import parcela_villarrica from './components/parcela_villarrica'
 import oficina_costanera from './components/oficina_costanera'
 import depto_amplio from './components/depto_amplio'
+import terreno_cerca_villarrica from './components/terreno_cerca_villarrica'
+
 
 
 class Root extends Component {
@@ -82,6 +84,8 @@ class Root extends Component {
                     <Route path="/parcela_villarrica" component={parcela_villarrica} />
                     <Route path="/oficina_costanera" component={oficina_costanera} />
                     <Route path="/depto_amplio" component={depto_amplio} />
+                    <Route path="/terreno_cerca_villarrica" component={terreno_cerca_villarrica} />
+
                     <Route path="/*" component={Error} />
                 </Switch>
                 </div>

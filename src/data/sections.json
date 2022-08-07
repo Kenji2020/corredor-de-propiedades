@@ -204,6 +204,7 @@
         "authorname":"Nicolás Quintana",
         "disponible":"No",
         "precio":"60255468"
+
       },
       {
         "title":"Oficina frente a costanera center",
@@ -216,7 +217,8 @@
         "area":"Arriendo oficina amoblada frente al costanera center. Acondicionada para consulta médica; a pasos de estación metro Los Leones. 2 privados, 2 baños, recepción. Lindas vistas. Excelente ubicación.",
         "authorname":"Nicolás Quintana",
         "disponible":"No",
-        "precio":"$600.000 mensuales"
+        "precio":"600000"
+
       },
       {
         "title":"Arriendo Amplio Depto. Comercial a pasos del Metro Baquedano",
@@ -229,7 +231,8 @@
         "area":"Arriendo; Amplio Departamento comercial, 110 mts. ideal centro médico. Excelente ubicación Vicuña Mackenna 4, a pasos del metro Baquedano.",
         "authorname":"Nicolás Quintana",
         "disponible":"No",
-        "precio":"$850.000 mensuales"
+        "precio":"850000"
+
       },
       {
         "title":"Terreno aledaño a Villarrica",

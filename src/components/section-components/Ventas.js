@@ -63,7 +63,7 @@ console.log("data",dataToShow)
                     <div className="tab-content">
                       <div className="tab-pane fade show active" id="tabs_1">
                         <div className="rld-main-search">
-                          <div className="row">
+                          <div className="row">                       
                             <div className="col-xl-2 col-lg-6 col-md-6">
                               <div className="rld-single-select">
                                 <select className="select nice-select" defaultValue={''} onChange={handleInput('ciudad')}>
@@ -73,10 +73,8 @@ console.log("data",dataToShow)
                                   <option value={'Calafquén'}>ciudad 3</option>
                                   <option value={3}>Opción 3</option>
                                 </select>
-                               
                               </div>
-                            </div>
-                          
+                            </div>                      
                             <div className="col-xl-2 col-lg-4 col-md-6">
                               <div className="rld-single-select">
                                 <select className="select nice-select" defaultValue={''} onChange={handleInput('precio')}>
@@ -90,7 +88,6 @@ console.log("data",dataToShow)
                                 </select>
                               </div>
                             </div>
-
                             <div className="col-xl-2 col-lg-4 col-md-4 readeal-top">
                             <button onClick={filtrar} className="btn btn-yellow">filtro</button>
                               
@@ -100,8 +97,7 @@ console.log("data",dataToShow)
                       </div>
                       <div className="tab-pane fade" id="tabs_2">
                         <div className="rld-main-search">
-                          <div className="row">
-                            
+                          <div className="row">                            
                             <div className="col-xl-2 col-lg-6 col-md-6">
                               <div className="rld-single-select">
                                 <select className="select single-select">

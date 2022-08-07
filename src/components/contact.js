@@ -73,7 +73,7 @@ const Contact = () => {
                   <i className="fa fa-envelope" />
                   ¿Tienes alguna pregunta?
                 </p>
-                <h5>info@nqd.cl</h5>
+                <h5>nquintana@nqd.cl</h5>
               </div>
             </div>
           </div>
