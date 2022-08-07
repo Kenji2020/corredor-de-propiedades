@@ -95,7 +95,7 @@ console.log("data",dataToShow)
                             <div className="col-xl-2 col-lg-4 col-md-6">
                               <div className="rld-single-select">
                                 <select className="select nice-select" defaultValue={''} onChange={handleInput('precio')}>
-                                  <option value={''}>Desde </option>
+                                  <option value={''}>Hasta los </option>
                                   <option value={'50000000'}>$50.000.000</option>
                                   <option value={'100000000'}>$100.000.000</option>
                                   <option value={'200000000'}>$200.000.000</option>
