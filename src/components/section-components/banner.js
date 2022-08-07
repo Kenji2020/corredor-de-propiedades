@@ -17,7 +17,7 @@ class Banner   extends Component {
           values.forEach((key, index) => {
             datos[key] = data2[key]
           })
-          console.log(datos)
+          //console.log(datos)
           this.setState({ datos })
 
       })
@@ -29,7 +29,7 @@ class Banner   extends Component {
   }
 
     render() {
-      console.log(this.state.datos)
+      //console.log(this.state.datos)
 
         let publicUrl = process.env.PUBLIC_URL+'/'
         let imagealt = 'image'

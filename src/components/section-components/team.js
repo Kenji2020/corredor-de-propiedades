@@ -18,8 +18,9 @@ class Team extends Component {
               <h2 className="title">{ data.title }</h2>
             </div>
             <div className="col">
+  
             { data.items.map( ( item, i )=>
-                <div key={i} className="col-lg-3 col-sm-6" style={{ marginRight:'40%'}} >
+                <div key={i} className="col-lg-3 col-sm-6" style={{'margin': 'auto'}} >
                   <div className="single-team">
                     <div className="thumb">
                       <img src={publicUrl+item.image} alt="team" />
