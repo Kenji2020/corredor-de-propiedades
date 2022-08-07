@@ -83,28 +83,30 @@ console.log("data",dataToShow)
                               <div className="rld-single-select">
                                 <select className="select nice-select" defaultValue={''} onChange={handleInput('ciudad')}>
                                   <option value={''}  >Ciudades</option>
-                                  <option value={'Maihue'}  >ciudad 1</option>
-                                  <option value={'Galletue'}>ciudad 2</option>
-                                  <option value={'Calafquén'}>ciudad 3</option>
-                                  <option value={3}>Opción 3</option>
+                                  <option value={'Maihue'}  >Maihue</option>
+                                  <option value={'Galletue'}>Galletue</option>
+                                  <option value={'Calafquén'}>Calafquén</option>
+                                  <option value={'Santiago'}>Santiago</option>
+                                  <option value={'Villarrica'}>Villarrica</option>
+
                                 </select>
                               </div>
                             </div>                      
                             <div className="col-xl-2 col-lg-4 col-md-6">
                               <div className="rld-single-select">
                                 <select className="select nice-select" defaultValue={''} onChange={handleInput('precio')}>
-                                  <option value={'999999999'}>desde </option>
-                                  <option value={'50000000'}>50 millonacos</option>
-                                  <option value={'100000000'}>100 millonacos</option>
-                                  <option value={'200000000'}>200 millonacos</option>
-                                  <option value={'300'}>$100.000.000 - $500.000.000</option>
-                                  <option value={3}>$500.000.000 - $800.000.000</option>
+                                  <option value={''}>Desde </option>
+                                  <option value={'50000000'}>$50.000.000</option>
+                                  <option value={'100000000'}>$100.000.000</option>
+                                  <option value={'200000000'}>$200.000.000</option>
+                                  <option value={'500000000'}>$500.000.000</option>
+                                  <option value={'700000000'}>$700.000.000</option>
                                   
                                 </select>
                               </div>
                             </div>
                             <div className="col-xl-2 col-lg-4 col-md-4 readeal-top">
-                            <button onClick={filtrar} className="btn btn-yellow">filtro</button>
+                            <button onClick={filtrar} className="btn btn-yellow">Buscar</button>
                               
                             </div>
                           </div>
