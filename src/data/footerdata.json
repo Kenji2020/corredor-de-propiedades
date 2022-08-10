@@ -1,5 +1,5 @@
 {
-  "footerlogo": "assets/img/footer-logo.png",
+  "footerlogo": "assets/img/client/logo_temp-1.png",
   "footertext": "Our support team will get assistance from AI-powered, making it quicker than ever to handle support requests.",
   "footerbg": "assets/img/bg/footer.png",
   "socialicon": [
@@ -16,65 +16,19 @@
         "url": ""
       }
     ],
-  "popularserces": {
-    "title": "Popular Searches",
-    "links": [
-      {
-        "title": "Apartment for Rent",
-        "url": "/property-details"
-      },
-      {
-        "title": "Apartment Low to hide",
-        "url": "/property-details"
-      },
-      {
-        "title": "Offices for Buy",
-        "url": "/property-details"
-      },
-      {
-        "title": "Offices for Rent",
-        "url": "/property-details"
-      }
-    ]
-  },
-  "Homepress": {
-    "title": "Homepress Markets",
-    "links": [
-      {
-        "title": "Los Angeles Offices",
-         "url": "/property-details"
-      },
-      {
-        "title": "Las Vegas Apartment",
-         "url": "/property-details"
-      },
-      {
-        "title": "Sacramento Townhome",
-         "url": "/property-details"
-      },
-      {
-        "title": "San Francisco Offices",
-         "url": "/property-details"
-      }
-    ]
-  },
   "quicklink": {
-    "title": "Quick Links",
+    "title": "Links rápidos",
     "links": [
       {
-        "title": "Pricing Plans",
-        "url": "/pricing"
-      },
-      {
-        "title": "FAQ",
+        "title": "Preguntas frecuentes",
         "url": "/faq"
       },
       {
-        "title": "About Us",
+        "title": "Sobre nosotros",
         "url": "/About"
       },
       {
-        "title": "Contact Us",
+        "title": "Contáctanos",
         "url": "/contact"
       }
     ]

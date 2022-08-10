@@ -22,17 +22,23 @@ class Footer_v1 extends Component {
         }
 
         return (
-             <footer className="footer-area style-two">
-              <div className="container">
-                                 
-                <div className="footer-top">
+             <footer className="footer-area style-two ">
+              <div className="container d-flex justify-content-center">
+              
+                  <div className="footer-top">
                   <div className="row">
                     <div className="col-sm-4">
+                      <img src={publicUrl+footerdata.footerlogo} alt={imgattr} />
                     </div>
                     <div className="col-sm-8">
-                      <div className="footer-social text-sm-right">
+                      <div className="footer-social">
+                        <span className='ml-5'>Síguenos</span>
                         <ul className="social-icon">
-                         
+                         { footerdata.socialicon.map( ( item, i )=>
+                            <li key={i}>
+                              <a href={ item.url } target="_blank"><i className={ item.icon } /></a>
+                            </li>
+                          ) }
                         </ul>
                       </div>  
                     </div>
