@@ -162,3 +162,37 @@
   .no-csspointerevents .nice-select.open .list {
     display: block;
   } 
+
+.main{
+  width: 100%;
+  height: 100vh;
+}
+  .videito{
+      object-fit: cover;
+      width: 100vw;
+      height: 100vh;
+      top: 0;
+      left: 0;
+  }
+  .content{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+  }
+  .overlay{
+    position:absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+  }
