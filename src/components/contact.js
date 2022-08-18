@@ -20,6 +20,7 @@ const Contact = () => {
           console.log(error.text);
           alert('Ha ocurrido un error, inténtalo  más tarde')
       });
+      e.target.reset()
   };
   return (
     <div>
